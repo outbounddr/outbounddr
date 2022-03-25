@@ -268,3 +268,8 @@ a {
 p.white {
     color: #fff;
 }
+
+.main-banner-content h1,
+.main-banner-content h4 {
+    color: white;
+}
